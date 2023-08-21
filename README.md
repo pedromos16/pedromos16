@@ -8,10 +8,10 @@
   <img align="center" alt="PedroSwift" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg">
 </div>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?pedromos16=tws&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Márcio github stats" /> 
+<div align="center">     
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedromos16&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Márcio github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromos16&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div>
+  </div>
   
   ## 
  
